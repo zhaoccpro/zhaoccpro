@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/github/stars/coder-zhaocc.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/coder-zhaocc">
-        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey=jwt1399&color=blue&logo=github&longCache=true" />
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey=coder-zhaocc&color=blue&logo=github&longCache=true" />
     </a>
     <a title="My Blog Site" target="_blank" href="https://coder-zhaocc.top/">
         <img src="https://img.shields.io/badge/Blog-jwt1399.top-orange" />
@@ -78,7 +78,7 @@
 
 ​    
 
-<h4 align="center" >🌱 Pursuing master’s degree in <a href="https://www.uestc.edu.cn/">UESTC</a>，🖥️ Research <code>Data Security</code> & <code>Java Development</code>，⭐️ Blog：https://coder-zhaocc.top</h4>
+<h4 align="center" >🌱 Pursuing master’s degree in <a href="https://www.uestc.edu.cn/">UESTC</a>，🖥️ Research <code>Data Security</code> & <code>Java Development</code>，⭐️ Blog：https://coder-zhaocc.io</h4>
 
 | <img src="https://github.com/jwt1399/coder-zhaocc/blob/main/study.gif" width="200" alt="study" /> | ![Stats](https://github-readme-stats.vercel.app/api?username=jwt1399&show_icons=true&theme=default&count_private=true) | ![UA](https://count.getloli.com/get/@jwt1399?theme=rule34) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
