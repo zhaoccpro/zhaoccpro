@@ -74,7 +74,7 @@
 
 <h4 align="center" >🌱 Address: <a href="https://map.baidu.com/search/%E5%8D%97%E4%BA%AC%E5%B8%82/@13225169,3748907.75,12z?querytype=s&da_src=shareurl&wd=%E5%8D%97%E4%BA%AC&c=315&src=0&pn=0&sug=0&l=13&b=(13203566,3735464;13251310,3761288)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&device_ratio=2">NanJing</a>，🖥️ Worke： <code>Java Development</code>，⭐️ Blog：https://coder-zhaocc.io</h4>
 
-| <img src="https://github.com/coder-zhaocc/coder-zhaocc/blob/main/study.gif" width="200" alt="study" /> | ![Stats](https://github-readme-stats.vercel.app/api?username=coder-zhaocc&show_icons=true&theme=default&count_private=true) | ![UA]([https://moe-counter.glitch.me/get/@coder-zhaocc?theme=rule34)]([https://moe-counter.glitch.me/get/@coder-zhaocc?theme=rule34](https://moe-counter.glitch.me/get/@coder-zhaocc?theme=rule34)) |
+| <img src="https://github.com/coder-zhaocc/coder-zhaocc/blob/main/study.gif" width="200" alt="study" /> | ![Stats](https://github-readme-stats.vercel.app/api?username=coder-zhaocc&show_icons=true&theme=default&count_private=true) | ![:name](https://count.getloli.com/get/@:coder-zhaocc?them=rule34) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
 
 [![This is me](https://readme-typing-svg.herokuapp.com?size=30&color=15485F&center=true&vCenter=true&height=80&width=1500&lines=%F0%9F%92%A1%20In%20order%20to%20be%20irreplaceable%EF%BC%8Cone%20must%20always%20be%20different%20%EF%BC%81)](https://git.io/typing-svg)
