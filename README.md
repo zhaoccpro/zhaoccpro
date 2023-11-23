@@ -67,12 +67,7 @@
 <a href="https://developer.mozilla.org/zh-CN/docs/learn/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-</a> 
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-</a>
+
 </div>
 
 ​    
